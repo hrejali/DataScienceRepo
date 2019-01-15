@@ -1,2 +1,1 @@
-# DataScienceRepo
-# DataScienceRepo
+# Data Science Practice Repository
